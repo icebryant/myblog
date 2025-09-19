@@ -3,10 +3,10 @@
 
 /* 浅色模式使用的变量 */
 html[theme] {
-  --vp-c-user-1:red;
+  --vp-c-user-1:#40b883;
   --vp-c-user-2:blue;
   --vp-c-user-3:green;
-  --vp-c-user-soft:rgba(255,0,0,.5);
+  --vp-c-user-soft:#e2eae6;
 }
 
 /* 深色模式使用的变量 */
