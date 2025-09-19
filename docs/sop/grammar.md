@@ -59,7 +59,7 @@ Markdown 是一种轻量级的标记语言（markup language），由 John Grube
  * 使用Haversine公式计算两点之间的距离（单位：米）
  * @param origin 基准点坐标
  * @param target 目标点坐标
- * @returns 两点之间的距离（米）
+ * @returns 两点之间的距离
  */
 const calculateDistance = (origin: Coordinate, target: Coordinate): number => {
     const R = 6371000; // 地球半径（米）
