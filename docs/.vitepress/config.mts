@@ -51,7 +51,7 @@ export default defineConfig({
           { text: 'vue', link: '/front-end/vue/' },
         ]
       },
-      { text: '关于作者', link: 'https://sugarat.top/aboutme.html' }
+      // { text: '关于作者', link: 'https://sugarat.top/aboutme.html' }
     ],
     socialLinks: [
       {
