@@ -1,7 +1,7 @@
 ---
 top: 2
 ---
-### markdown 语法学习记录
+# markdown 语法学习记录
 Markdown 是一种轻量级的标记语言（markup language），由 John Gruber（1973～）与 Aaron Swartz（1986～2013）于 2004 年创造，被网站用于编写说明文件（README）、技术文档或在论坛上发布信息。由于其语法简单，易于读写，且编写出的作品简洁美观，目前也被越来越多的人群用于日常写作、发布电子书甚至书写电子邮件。可以说，Markdown 是极简主义（minimalism）的代表作品。
 
 简单说，Markdown 有如下优势：
