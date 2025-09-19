@@ -54,18 +54,6 @@ Markdown 是一种轻量级的标记语言（markup language），由 John Grube
 这是`const test:string = '测试'`。
 
 2.2. 代码块
-```java
-import functools
-
-
-@functools.lru_cache
-def fibonacci(n):
-    return n if n < 2 else fibonacci(n - 2) + fibonacci(n - 1)
-
-
-if __name__ == "__main__":
-    print(fibonacci(4))
-```
 ```typescript
 /**
  * 使用Haversine公式计算两点之间的距离（单位：米）
