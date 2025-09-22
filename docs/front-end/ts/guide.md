@@ -1,3 +1,17 @@
+---
+sidebar:
+ title: Typescript学习路线
+ step: 1
+isTimeLine: true
+title: Typescript学习路线
+date: 2025-09-22
+tags:
+ - 大前端
+ - vue
+categories:
+ - 大前端
+---
+# Typescript学习路线
 以下是一份系统的 TypeScript 学习路线图，从零基础到精通分为 5 个阶段，每个阶段明确学习目标、核心内容和实践方向，帮助你循序渐进掌握 TypeScript：
 阶段 1：前置知识（1-2 周）—— 扫清学习障碍
 目标：具备 JavaScript 基础，理解 TypeScript 与 JavaScript 的关系

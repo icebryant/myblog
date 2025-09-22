@@ -1,10 +1,10 @@
 ---
 sidebar:
  title: 组件通信
- step: 3
+ step: 1
 isTimeLine: true
 title: 组件通信
-date: 2020-04-14
+date: 2025-09-19
 tags:
  - 大前端
  - vue
