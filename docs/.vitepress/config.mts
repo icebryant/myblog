@@ -49,6 +49,7 @@ export default defineConfig({
       {
         text: '大前端', items: [
           { text: 'vue', link: '/front-end/vue/' },
+          { text: 'ts', link: '/front-end/ts/' },
         ]
       },
       // { text: '关于作者', link: 'https://sugarat.top/aboutme.html' }
