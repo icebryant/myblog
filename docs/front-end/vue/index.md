@@ -7,6 +7,7 @@ hidden: true
 :::
 
 ## 目录
+* [项目架构Monorepo](./monorepo.md)
 * [组件通信](./communicate.md)
 <!-- * [编译template的过程](./compile.md) -->
 <!-- * [computed 与 watch](./computed.md)
